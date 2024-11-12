@@ -1,4 +1,4 @@
-# Plata by Mono Library
+# Monobank | MonoPay | Plata by Mono Library
 
 A simple PHP library to work with Monobank Acquiring. For detailed API documentation, refer to [Monobank Acquiring API](https://api.monobank.ua/docs/acquiring.html).
 
