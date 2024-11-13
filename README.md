@@ -12,7 +12,7 @@ First, obtain an API token, which is required to access Monobank's API. You can 
 Run the next command to install the library with all dependencies:
 
 ```
-composer require atsarova/monopay
+composer require atsareva/monopay
 ```
 
 ## Usage Examples
