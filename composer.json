@@ -1,5 +1,5 @@
 {
-    "name": "atsarova/monopay",
+    "name": "atsareva/monopay",
     "description": "A lightweight library for Monobank Acquiring, named 'Plata by Mono,' built on REST API (v2410). Documentation available at https://api.monobank.ua/docs/acquiring.html.",
     "type": "library",
     "require": {
