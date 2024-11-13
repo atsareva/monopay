@@ -9,10 +9,10 @@ A simple PHP library to work with Monobank Acquiring. For detailed API documenta
 ## How to Use
 First, obtain an API token, which is required to access Monobank's API. You can register one in your Monobank [personal account](https://web.monobank.ua/) to activate a token or enable a [test token](https://api.monobank.ua/index.html).
 
-After downloading the library, run the following command to install all dependencies:
+Run the next command to install the library with all dependencies:
 
 ```
-composer install
+composer require atsarova/monopay
 ```
 
 ## Usage Examples
